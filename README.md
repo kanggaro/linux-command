@@ -27,4 +27,4 @@ Cron adalah sebuah service daemon yang memungkinkan user Linux dan Unix untuk me
 * -l untuk menampilkan isi file crontab
 * -r untuk menghapus file crontab
 * -e untuk mengubah atau membuat file crontab jika belum ada
-*-i untuk memberikan pertanyaan konfirmasi terlebih dahulu sebelum menghapus file crontab
+* -i untuk memberikan pertanyaan konfirmasi terlebih dahulu sebelum menghapus file crontab
