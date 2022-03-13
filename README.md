@@ -9,6 +9,12 @@
 * -e : untuk mengubah atau membuat file crontab jika belum ada
 * -i : untuk memberikan pertanyaan konfirmasi terlebih dahulu sebelum menghapus file crontab
 
+* ls -a : ls melihat file, -a menampilkan hingga file yang hidden
+
+* `rm untitled.rtf` : menghapus file
+* `cd ~/Desktop` : Mengganti direktori
+* `mv ~/Desktop/untitled.rtf ~/Desktop/untitled1.rtf` : Mengganti nama file
+
 
 
 
