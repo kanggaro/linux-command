@@ -3,6 +3,9 @@
 * -p : Daftar semua nama yang diekspor dalam shell saat ini
 * -n : Hapus nama dari daftar ekspor
 * -f : Nama diekspor sebagai fungsi
+* -q : quit
+* -o : open
+* -d : directory
 
 * -l : untuk menampilkan isi file crontab
 * -r : untuk menghapus file crontab
