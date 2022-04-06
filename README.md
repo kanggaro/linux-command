@@ -6,6 +6,8 @@
 * -q : quit
 * -o : open
 * -d : directory
+* -u : update
+* -x : mengeluarkan suatu file dari file
 
 * -l : untuk menampilkan isi file crontab
 * -r : untuk menghapus file crontab
