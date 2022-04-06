@@ -20,6 +20,7 @@
 * `cd ~/Desktop` : Mengganti direktori
 * `mv ~/Desktop/untitled.rtf ~/Desktop/untitled1.rtf` : Mengganti nama file
 
+![command linux](https://user-images.githubusercontent.com/90663373/162014841-02a3b971-fe5e-477c-b04a-c36cb285f1c3.jpeg)
 
 
 
